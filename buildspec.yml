@@ -21,4 +21,4 @@ phases:
       - sudo systemctl enable nginx
 artifacts:
   files:
-    - '**/*'
+    - '**/*'  # Adjust this to specify only necessary files if needed
